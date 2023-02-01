@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\incomecomparison.cs\incomecomparison.cs\bin\Debug\incomecomparison.cs.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\incomecomparison.cs\incomecomparison.cs\bin\Debug\incomecomparison.cs.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\incomecomparison.cs\incomecomparison.cs\bin\Debug\incomecomparison.cs.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\incomecomparison.cs\incomecomparison.cs\obj\Debug\incomecomparison.cs.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\incomecomparison.cs\incomecomparison.cs\obj\Debug\incomecomparison.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\incomecomparison.cs\incomecomparison.cs\obj\Debug\incomecomparison.cs.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\incomecomparison.cs\incomecomparison.cs\obj\Debug\incomecomparison.cs.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\incomecomparison.cs\incomecomparison.cs\obj\Debug\incomecomparison.cs.pdb
