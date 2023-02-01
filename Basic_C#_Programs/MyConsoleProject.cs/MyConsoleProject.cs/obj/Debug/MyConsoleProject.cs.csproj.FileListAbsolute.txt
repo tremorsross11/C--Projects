@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\MyConsoleProject.cs.exe.config
+C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\MyConsoleProject.cs.exe
+C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\MyConsoleProject.cs.pdb
+C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\MyConsoleProject.cs.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\MyConsoleProject.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\MyConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\MyConsoleProject.cs.exe
+C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\MyConsoleProject.cs.pdb
