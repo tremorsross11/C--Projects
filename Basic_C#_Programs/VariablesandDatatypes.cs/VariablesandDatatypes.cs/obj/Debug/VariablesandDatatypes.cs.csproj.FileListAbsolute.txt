@@ -6,3 +6,11 @@ C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\VariablesandDatatypes.cs\Varia
 C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\bin\Debug\VariablesandDatatypes.cs.pdb
 C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\obj\Debug\VariablesandDatatypes.cs.exe
 C:\Users\tremo\Documents\GitHub\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\obj\Debug\VariablesandDatatypes.cs.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\bin\Debug\VariablesandDatatypes.cs.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\bin\Debug\VariablesandDatatypes.cs.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\bin\Debug\VariablesandDatatypes.cs.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\obj\Debug\VariablesandDatatypes.cs.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\obj\Debug\VariablesandDatatypes.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\obj\Debug\VariablesandDatatypes.cs.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\obj\Debug\VariablesandDatatypes.cs.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\VariablesandDatatypes.cs\VariablesandDatatypes.cs\obj\Debug\VariablesandDatatypes.cs.pdb
