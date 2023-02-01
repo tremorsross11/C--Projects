@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\input.cs\input.cs\obj\Debug\input.cs.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\input.cs\input.cs\obj\Debug\input.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\input.cs\input.cs\obj\Debug\input.cs.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\input.cs\input.cs\bin\Debug\input.cs.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\input.cs\input.cs\bin\Debug\input.cs.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\input.cs\input.cs\bin\Debug\input.cs.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\input.cs\input.cs\obj\Debug\input.cs.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\input.cs\input.cs\obj\Debug\input.cs.pdb

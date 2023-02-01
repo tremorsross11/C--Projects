@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\MathandComparisonOperators.cs\MathandComparisonOperators.cs\bin\Debug\MathandComparisonOperators.cs.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\MathandComparisonOperators.cs\MathandComparisonOperators.cs\bin\Debug\MathandComparisonOperators.cs.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\MathandComparisonOperators.cs\MathandComparisonOperators.cs\bin\Debug\MathandComparisonOperators.cs.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\MathandComparisonOperators.cs\MathandComparisonOperators.cs\obj\Debug\MathandComparisonOperators.cs.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\MathandComparisonOperators.cs\MathandComparisonOperators.cs\obj\Debug\MathandComparisonOperators.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\MathandComparisonOperators.cs\MathandComparisonOperators.cs\obj\Debug\MathandComparisonOperators.cs.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\MathandComparisonOperators.cs\MathandComparisonOperators.cs\obj\Debug\MathandComparisonOperators.cs.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\MathandComparisonOperators.cs\MathandComparisonOperators.cs\obj\Debug\MathandComparisonOperators.cs.pdb
