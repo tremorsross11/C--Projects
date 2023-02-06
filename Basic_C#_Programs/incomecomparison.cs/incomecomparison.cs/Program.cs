@@ -24,10 +24,10 @@ namespace incomecomparison.cs
             Console.WriteLine("Hours worked: ");
             string work2 = Console.ReadLine();
             Console.WriteLine("Annual salary of person one: ");
-            int person1 = (Convert.ToInt32(hour) * Convert.ToInt32(work));
+            int person1 = (Convert.ToInt32(hour) * Convert.ToInt32(work) * 52 );
             Console.WriteLine(person1);
             Console.WriteLine("Annual salary of person two: ");
-            int person2 = (Convert.ToInt32(hour2) * Convert.ToInt32(work2));
+            int person2 = (Convert.ToInt32(hour2) * Convert.ToInt32(work2) * 52);
             Console.WriteLine(person2);
             Console.WriteLine("Does person one make more than person two?");
             Console.WriteLine(person1 > person2);
