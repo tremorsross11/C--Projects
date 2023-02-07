@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\CarInsuranceProgram\CarInsuranceProgram\bin\Debug\CarInsuranceProgram.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\CarInsuranceProgram\CarInsuranceProgram\bin\Debug\CarInsuranceProgram.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\CarInsuranceProgram\CarInsuranceProgram\bin\Debug\CarInsuranceProgram.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\CarInsuranceProgram\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\CarInsuranceProgram\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\CarInsuranceProgram\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\CarInsuranceProgram\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\CarInsuranceProgram\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.pdb
