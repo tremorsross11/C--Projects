@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\shippingprogram\shippingprogram\bin\Debug\shippingprogram.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\shippingprogram\shippingprogram\bin\Debug\shippingprogram.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\shippingprogram\shippingprogram\bin\Debug\shippingprogram.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\shippingprogram\shippingprogram\obj\Debug\shippingprogram.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\shippingprogram\shippingprogram\obj\Debug\shippingprogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\shippingprogram\shippingprogram\obj\Debug\shippingprogram.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\shippingprogram\shippingprogram\obj\Debug\shippingprogram.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\shippingprogram\shippingprogram\obj\Debug\shippingprogram.pdb
