@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\dowhile\dowhile\bin\Debug\dowhile.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\dowhile\dowhile\bin\Debug\dowhile.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\dowhile\dowhile\bin\Debug\dowhile.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\dowhile\dowhile\obj\Debug\dowhile.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\dowhile\dowhile\obj\Debug\dowhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\dowhile\dowhile\obj\Debug\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\dowhile\dowhile\obj\Debug\dowhile.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\dowhile\dowhile\obj\Debug\dowhile.pdb
