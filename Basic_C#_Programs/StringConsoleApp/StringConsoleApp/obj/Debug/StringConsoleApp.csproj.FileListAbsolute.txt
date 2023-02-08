@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringConsoleApp\StringConsoleApp\bin\Debug\StringConsoleApp.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringConsoleApp\StringConsoleApp\bin\Debug\StringConsoleApp.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringConsoleApp\StringConsoleApp\bin\Debug\StringConsoleApp.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringConsoleApp\StringConsoleApp\obj\Debug\StringConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringConsoleApp\StringConsoleApp\obj\Debug\StringConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringConsoleApp\StringConsoleApp\obj\Debug\StringConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringConsoleApp\StringConsoleApp\obj\Debug\StringConsoleApp.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringConsoleApp\StringConsoleApp\obj\Debug\StringConsoleApp.pdb
