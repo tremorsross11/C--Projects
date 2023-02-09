@@ -16,15 +16,40 @@ namespace ArrayIndex
             int index = int.Parse(Console.ReadLine());
 
             // Display the string at the index the user selected
-            Console.WriteLine($"You chose the string at index {index}: {ArrayOfStrings[index]}");
+            if (index >= 0 && index <= ArrayOfStrings.Length)
+            {
+                Console.WriteLine($"You chose the string at index {index}: {ArrayOfStrings[index]}");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("Doesnt exist in index try again");
+                
+            }
+            Console.ReadLine();
+            
 
             // Declare one-dimensional array of integers
             int[] ArrayOfIntegers = { 1, 2, 3 };
             Console.WriteLine("Select an index of the Array (0, 1, or 2):");
             int index2 = int.Parse(Console.ReadLine());
 
-            // Display the integer at the index the user selected
-            Console.WriteLine($"You chose the integer at index {index2}: {ArrayOfIntegers[index2]}");
+
+            if (index2 >= 0 && index2 <= ArrayOfIntegers.Length)
+            {
+                Console.WriteLine($"You chose the int at index {index2}: {ArrayOfIntegers[index2]}");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("Doesnt exist in index try again");
+
+            }
+            Console.ReadLine();
+
+
+
+
 
             // create a list of strings 
             List<string> ListOfStrings = new List<string>() { "String1", "String2", "String3" };

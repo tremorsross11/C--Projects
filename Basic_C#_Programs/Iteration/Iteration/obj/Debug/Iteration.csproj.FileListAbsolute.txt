@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\Iteration.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\Iteration.pdb
