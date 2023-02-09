@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArrayIndex\ArrayIndex\bin\Debug\ArrayIndex.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArrayIndex\ArrayIndex\bin\Debug\ArrayIndex.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArrayIndex\ArrayIndex\bin\Debug\ArrayIndex.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArrayIndex\ArrayIndex\obj\Debug\ArrayIndex.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArrayIndex\ArrayIndex\obj\Debug\ArrayIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArrayIndex\ArrayIndex\obj\Debug\ArrayIndex.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArrayIndex\ArrayIndex\obj\Debug\ArrayIndex.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArrayIndex\ArrayIndex\obj\Debug\ArrayIndex.pdb

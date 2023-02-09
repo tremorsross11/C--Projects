@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysandLists", "ArraysandLists\ArraysandLists.csproj", "{7B13C051-E0A3-4420-A750-ABD3B3A57F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B13C051-E0A3-4420-A750-ABD3B3A57F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B13C051-E0A3-4420-A750-ABD3B3A57F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B13C051-E0A3-4420-A750-ABD3B3A57F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B13C051-E0A3-4420-A750-ABD3B3A57F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782683A1-A1A0-434E-AD56-5515F90FA87F}
+	EndGlobalSection
+EndGlobal
