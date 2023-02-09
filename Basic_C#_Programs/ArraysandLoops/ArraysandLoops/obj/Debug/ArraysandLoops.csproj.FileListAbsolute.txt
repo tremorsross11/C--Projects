@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArraysandLoops\ArraysandLoops\bin\Debug\ArraysandLoops.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArraysandLoops\ArraysandLoops\bin\Debug\ArraysandLoops.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArraysandLoops\ArraysandLoops\bin\Debug\ArraysandLoops.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArraysandLoops\ArraysandLoops\obj\Debug\ArraysandLoops.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArraysandLoops\ArraysandLoops\obj\Debug\ArraysandLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArraysandLoops\ArraysandLoops\obj\Debug\ArraysandLoops.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArraysandLoops\ArraysandLoops\obj\Debug\ArraysandLoops.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\ArraysandLoops\ArraysandLoops\obj\Debug\ArraysandLoops.pdb

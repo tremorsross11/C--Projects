@@ -21,12 +21,24 @@ namespace Iteration
             //}
             //Console.ReadLine(); 
 
-            string[] names = { "Jesse", "Erik", "Daniel", "Adam" };
+            List<int> testScores = new List<int>();
+            testScores.Add(98);
+            testScores.Add(99);
+            testScores.Add(81);
+            testScores.Add(72);
+            testScores.Add(68);
+            testScores.Add(79);
 
-            for (int j = 0; j < names.Length; j++)
+            foreach (int score in testScores)
             {
-
+                if (score > 85)
+                {
+                    Console.WriteLine("Passing Score: " + score);
+                }
+                Console.ReadLine();
             }
+
+            
         }
     }
 }
