@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringsandIntegers\StringsandIntegers\bin\Debug\StringsandIntegers.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringsandIntegers\StringsandIntegers\bin\Debug\StringsandIntegers.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringsandIntegers\StringsandIntegers\bin\Debug\StringsandIntegers.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringsandIntegers\StringsandIntegers\obj\Debug\StringsandIntegers.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringsandIntegers\StringsandIntegers\obj\Debug\StringsandIntegers.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringsandIntegers\StringsandIntegers\obj\Debug\StringsandIntegers.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringsandIntegers\StringsandIntegers\obj\Debug\StringsandIntegers.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StringsandIntegers\StringsandIntegers\obj\Debug\StringsandIntegers.pdb
