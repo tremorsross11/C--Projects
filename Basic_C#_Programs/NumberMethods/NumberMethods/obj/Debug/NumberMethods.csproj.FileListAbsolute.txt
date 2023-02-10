@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\NumberMethods\NumberMethods\bin\Debug\NumberMethods.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\NumberMethods\NumberMethods\bin\Debug\NumberMethods.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\NumberMethods\NumberMethods\bin\Debug\NumberMethods.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\NumberMethods\NumberMethods\obj\Debug\NumberMethods.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\NumberMethods\NumberMethods\obj\Debug\NumberMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\NumberMethods\NumberMethods\obj\Debug\NumberMethods.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\NumberMethods\NumberMethods\obj\Debug\NumberMethods.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\NumberMethods\NumberMethods\obj\Debug\NumberMethods.pdb
