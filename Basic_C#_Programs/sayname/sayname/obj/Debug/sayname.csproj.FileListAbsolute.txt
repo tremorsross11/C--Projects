@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\sayname\sayname\bin\Debug\sayname.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\sayname\sayname\bin\Debug\sayname.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\sayname\sayname\bin\Debug\sayname.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\sayname\sayname\obj\Debug\sayname.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\sayname\sayname\obj\Debug\sayname.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\sayname\sayname\obj\Debug\sayname.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\sayname\sayname\obj\Debug\sayname.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\sayname\sayname\obj\Debug\sayname.pdb
