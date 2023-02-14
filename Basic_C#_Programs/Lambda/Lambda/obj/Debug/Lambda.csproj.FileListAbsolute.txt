@@ -1,0 +1,3 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Lambda\Lambda\obj\Debug\Lambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
