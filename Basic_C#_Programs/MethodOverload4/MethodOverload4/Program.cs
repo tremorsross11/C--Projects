@@ -34,9 +34,9 @@ namespace MethodOverload4
 
             // Call the method on that number.
             instance.DivideIntByTwo(input);
+            Console.ReadLine();
 
-            // Display the output to the screen. It should be the entered number, divided by two.
-            Console.WriteLine(instance.DivideIntByTwo(input));
+            
         }
 
         // Create a method with output parameters
@@ -60,6 +60,7 @@ namespace MethodOverload4
                 Console.WriteLine(str);
             }
         }
+        
     }
 
 }
