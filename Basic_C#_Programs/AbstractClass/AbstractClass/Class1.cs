@@ -17,11 +17,16 @@ namespace AbstractClass
         }
     }
 
-    class Employee : Person
+    class Employee : Person, IQuittable
     {
         public override void SayName()
         {
             Console.WriteLine("Employee Name: " + firstName + " " + lastName);
+        }
+        public void Quit()
+        {
+            Console.WriteLine("Employee " + firstName + " " + lastName + " is quitting!");
+            Console.ReadLine();
         }
     }
 }

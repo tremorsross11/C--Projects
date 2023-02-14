@@ -15,6 +15,9 @@ namespace AbstractClass
             emp.lastName = "Student";
             emp.SayName();
             Console.ReadLine();
+
+            IQuittable empQuit = emp;
+            empQuit.Quit();
         }
     }
 }
