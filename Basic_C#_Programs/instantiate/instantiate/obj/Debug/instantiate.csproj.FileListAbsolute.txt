@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\instantiate\instantiate\bin\Debug\instantiate.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\instantiate\instantiate\bin\Debug\instantiate.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\instantiate\instantiate\bin\Debug\instantiate.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\instantiate\instantiate\obj\Debug\instantiate.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\instantiate\instantiate\obj\Debug\instantiate.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\instantiate\instantiate\obj\Debug\instantiate.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\instantiate\instantiate\obj\Debug\instantiate.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\instantiate\instantiate\obj\Debug\instantiate.pdb
