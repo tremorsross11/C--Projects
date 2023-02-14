@@ -12,7 +12,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            TwentyOneGame game = new TwentyOneGame();
+            Game game = new TwentyOneGame();
             game.Players = new List<string>() { "Jesse", "Ross", "Bill" };
             game.ListPlayers();
             Console.ReadLine();
