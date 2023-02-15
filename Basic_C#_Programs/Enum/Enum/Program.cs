@@ -13,16 +13,28 @@ namespace Enums
             Console.WriteLine("Please enter the current day of the week:");
             try
             {
-                DayOfWeek day = (DayOfWeek)Enum.Parse(typeof(DayOfWeek), Console.ReadLine());
+                DayOfWeek day = (DayOfWeek)DayOfWeek.Parse(typeof(DayOfWeek), Console.ReadLine());
                 Console.WriteLine("Today is {0}.", day);
+                Console.ReadLine();
             }
             catch (Exception)
             {
                 Console.WriteLine("Please enter an actual day of the week.");
+                Console.ReadLine();
             }
           
 
     }
+        public enum DayOfWeek
+        {
+            Sunday,
+            Monday,
+            Tuesday,
+            Wednesday,
+            Thursday,
+            Friday,
+            Saturday
+        }
 
-}
+    }
 }

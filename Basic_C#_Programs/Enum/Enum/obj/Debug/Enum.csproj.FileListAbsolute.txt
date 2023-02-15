@@ -1,3 +1,8 @@
 C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Enum\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
 C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Enum\Enum\obj\Debug\Enum.csproj.SuggestedBindingRedirects.cache
 C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\Enum\Enum\obj\Debug\Enum.pdb
