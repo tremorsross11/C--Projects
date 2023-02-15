@@ -14,7 +14,7 @@ public class Program
 {
     public static void Main()
     {
-        List employees = new List()
+        List<Employee> employees = new List<Employee>()
         {
             new Employee { Id = 1, FirstName = "John", LastName = "Smith" },
             new Employee { Id = 2, FirstName = "Jane", LastName = "Doe" },
@@ -41,6 +41,12 @@ public class Program
 
         // Create a list of all employees with the first name “Joe” using a lambda expression
         List<Employee> joesLambda = employees.FindAll(emp => emp.FirstName == "Joe");
+        Console.ReadLine();
 
         // Create a list of all employees with an Id number greater than 5 using a lambda expression
         List<Employee> idsLambda = employees.FindAll(emp => emp.Id > 5);
+        Console.ReadLine();
+
+        
+    }
+}
