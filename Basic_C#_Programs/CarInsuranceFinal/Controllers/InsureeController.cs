@@ -171,7 +171,10 @@ namespace CarInsuranceFinal.Controllers
                 }
             }
 
-            quote += (insuree.SpeedingTickets * 10);
+            if(insuree.SpeedingTickets > 0)
+            {
+                quote += (insuree.SpeedingTickets * 10);
+            }
 
             if (insuree.DUI)
             {
