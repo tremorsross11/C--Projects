@@ -1,0 +1,5 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDB\SchoolDB\obj\Debug\net6.0\SchoolDB.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDB\SchoolDB\obj\Debug\net6.0\SchoolDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDB\SchoolDB\obj\Debug\net6.0\SchoolDB.AssemblyInfoInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDB\SchoolDB\obj\Debug\net6.0\SchoolDB.AssemblyInfo.cs
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDB\SchoolDB\obj\Debug\net6.0\SchoolDB.csproj.CoreCompileInputs.cache

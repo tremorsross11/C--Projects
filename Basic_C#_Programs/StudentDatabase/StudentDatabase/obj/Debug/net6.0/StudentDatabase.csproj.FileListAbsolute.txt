@@ -1,0 +1,8 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StudentDatabase\StudentDatabase\obj\Debug\net6.0\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StudentDatabase\StudentDatabase\obj\Debug\net6.0\StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StudentDatabase\StudentDatabase\obj\Debug\net6.0\StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StudentDatabase\StudentDatabase\obj\Debug\net6.0\StudentDatabase.AssemblyInfo.cs
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StudentDatabase\StudentDatabase\obj\Debug\net6.0\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StudentDatabase\StudentDatabase\obj\Debug\net6.0\StudentDatabase.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StudentDatabase\StudentDatabase\obj\Debug\net6.0\StudentDatabase.RazorAssemblyInfo.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\StudentDatabase\StudentDatabase\obj\Debug\net6.0\StudentDatabase.RazorAssemblyInfo.cs

@@ -1,0 +1,13 @@
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\bin\Debug\SchoolDb1.exe.config
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\bin\Debug\SchoolDb1.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\bin\Debug\SchoolDb1.pdb
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\bin\Debug\EntityFramework.dll
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\bin\Debug\EntityFramework.xml
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\obj\Debug\SchoolDb1.csproj.AssemblyReference.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\obj\Debug\SchoolDb1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\obj\Debug\SchoolDb1.csproj.CoreCompileInputs.cache
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\obj\Debug\SchoolDb1.csproj.CopyComplete
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\obj\Debug\SchoolDb1.exe
+C:\Users\tremo\Documents\GitHub\C#-Projects\Basic_C#_Programs\SchoolDb1\SchoolDb1\obj\Debug\SchoolDb1.pdb

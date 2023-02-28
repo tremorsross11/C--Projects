@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@using System;
+@using StudentDbContext;
+@using Student;
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@using (var dbContext = new StudentDbContext())
+{
+    dbContext.Database.EnsureCreated();
+
+    dbContext.Students.Add(new Student
+    {
+        Name = "John Smith",
+        Email = "john@example.com",
+        EnrollmentDate = DateTime.Now
+    });
+
+    dbContext.SaveChanges();
+}
